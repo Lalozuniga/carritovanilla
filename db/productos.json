@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 300,
+        "id": 1,
+        "titulo": "café",
+        "urlProducto": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 350,
+        "id": 2,
+        "titulo": "pizza",
+        "urlProducto": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 200,
+        "id": 3,
+        "titulo": "Camara",
+        "urlProducto": "https://picsum.photos/id/16/600"
+    },
+    {
+        "precio": 500,
+        "id": 4,
+        "titulo": "jugo",
+        "urlProducto": "https://picsum.photos/id/2/600"
+    },
+    {
+        "precio": 390,
+        "id": 5,
+        "titulo": "cargador",
+        "urlProducto": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 400,
+        "id": 6,
+        "titulo": "Sudadera",
+        "urlProducto": "https://picsum.photos/id/4/600"
+    },
+    {
+        "precio": 959,
+        "id": 7,
+        "titulo": "pizarra",
+        "urlProducto": "https://picsum.photos/id/5/600"
+    },
+    {
+        "precio": 3000,
+        "id": 8,
+        "titulo": "pantalla",
+        "urlProducto": "https://picsum.photos/id/6/600"
+    },
+    {
+        "precio": 600,
+        "id": 9,
+        "titulo": "cable",
+        "urlProducto": "https://picsum.photos/id/9/600"
+    },
+    {
+        "precio": 390,
+        "id": 10,
+        "titulo": "lentes",
+        "urlProducto": "https://picsum.photos/id/8/600"
+    }
+]
